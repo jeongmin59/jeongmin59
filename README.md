@@ -1,4 +1,4 @@
-> 안녕하세요!
+# 👋 Hi, there
 
 # 공정민
 - Email: jmgong59@gmail.com
