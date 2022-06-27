@@ -14,6 +14,7 @@
 ## Skill
 **Tech** : 
 한 번 이상 다루어 본 기술들
+
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
@@ -28,6 +29,8 @@
 
 **동아대학교 사회학과** (2019~) 
 **동아대학교 경영정보학과** (2019~)
+- 복수전공
+- R기반통계분석, 빅데이터분석, 데이터베이스시스템, 엑셀기반의경영데이터분석, e-CRM과데이터마이닝, 유통/판매데이터분석, 데이터베이스구축및활용, 빅데이터프로젝트 수강
 
 **Study**
 - 동아대학교 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
