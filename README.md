@@ -34,7 +34,7 @@
 
 
 **Study**
-- 동아대학교 IT 취업 동아리 데이터 분석 스터디(2022.03.29 ~ 진행중)
+- 동아대학교 IT 취업 동아리 데이터 분석 스터디
   - [SQL 스터디](https://github.com/donga-it-club/SQL-STUDY) (2022.03.29 ~ 진행중)
   - [MLOps 스터디](https://github.com/mlops-is-love) (2022.06.25 ~ 진행중)
 
