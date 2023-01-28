@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gray&height=100&section=header&text=jeongmin&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=egg&color=skyblue&height=100&section=header&text=jeongmin&fontSize=70)
 
 ## 공정민
 - Email : jmgong59@gmail.com
 - Blog : https://ggong59.tistory.com
-- velog : https://velog.io/@jmgong59
 - GitHub: https://github.com/jeongmin59
 
 
