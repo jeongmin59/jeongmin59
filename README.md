@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=10&section=header&text=jeongmin&fontSize=7)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=jeongmin&fontSize=70)
 
 ## 공정민
 - Email : jmgong59@gmail.com
