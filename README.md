@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=10&section=header&text=jeongmin&fontSize=7)
 
 ## 공정민
 - Email : jmgong59@gmail.com
