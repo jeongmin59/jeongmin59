@@ -24,12 +24,10 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jmgong59)](https://velog.io/@jmgong59)
 
 ### 영차영차
-<img src="http://mazandi.herokuapp.com/api?handle=jmgong59&theme=cold"/>
-
+<img src="http://mazandi.herokuapp.com/api?handle=jmgong59&theme=cold"/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin59&show_icons=true&theme=onedark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin59&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=jeongmin59&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin59&layout=compact">
 
 </div>
