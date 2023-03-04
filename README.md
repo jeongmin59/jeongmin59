@@ -21,9 +21,9 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
+  <a href="mailto:jmgong59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
   <a href="https://velog.io/@jmgong59"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jmgong59"/></a>&nbsp
   <a href="https://ggong59.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ggong59.tistory.com"/></a>&nbsp
-  <a href="mailto:jmgong59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p><br/>
 
