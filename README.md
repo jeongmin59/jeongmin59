@@ -50,11 +50,6 @@
 
 
 ## ETC
-<p>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jmgong59)](https://velog.io/@jmgong59)
-
-</p>
 
 <p>
 
