@@ -35,6 +35,14 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
 </p>
 
+**협업 Tool**
+<p>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+</ p>
+
 
 ## Education
 **동아대 사회학과 / 경영정보학과(복수전공)**(2019.03 ~ 2023.02)
