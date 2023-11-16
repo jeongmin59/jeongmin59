@@ -10,6 +10,8 @@
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p>
 
+# 리드미 공사 중입니다...
+
 ## Summary
 > Data Scientist 취업을 목표로 공부하고 있습니다. 금융 데이터에 관심이 있습니다.
 
@@ -34,11 +36,11 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1e?style=flat-square&logo=javascript&logoColor=white"/>
   
   <br>
-  <img src="https://img.shields.io/badge/amazonEC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazonS3-569A31?style=flat-square&logo=amazonS3&logoColor=white"/>
-	<img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-	<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-	<img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazon S3-569A31?style=flat-square&logo=amazonS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
   <br>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
@@ -47,7 +49,11 @@
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+
+
+  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 </p>
 
 **협업 Tool**
