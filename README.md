@@ -10,8 +10,6 @@
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p>
 
-# 수정 중 입니다.
-
 ## About Me
 - 빅데이터와 AI에 관심 많은 개발자 공정민 입니다.
 - UX/UI 개선에 신경을 많이 쓰며, 사용자의 편리함을 제일 먼저 생각 합니다.
@@ -88,11 +86,18 @@
 - 유통/판매데이터분석
 - 데이터베이스구축및활용
 
-## Study
-- 추후 수정 예정
 
 ## Projects
-- 추후 수정 예정
+- [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
+- [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
+- [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
+- [방구석 노래방 서비스](https://github.com/jeongmin59/ssarout) (2023.07 ~ 2023.08)
+
+
+## Study
+- [머신러닝 시스템 설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06 ~ 2023.10) 
+- [데이터엔지니어링 기초 스터디](https://github.com/jeongmin59/DE_Study) (2023.03 ~ 2023.05)
+- [데이터분석 기초 스터디](https://codeusjourney.notion.site/5-8-2-e9e04b2cc995492881796736dc126642) (2022.04 ~ 2022.09)
 
 
 ## ETC
