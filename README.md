@@ -10,6 +10,9 @@
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p>
 
+[포트폴리오 바로가기 📌](https://descriptive-monday-0e8.notion.site/Jeongmin-Gong-Front-End-4a1757acfb714c938edbf40325341c73?pvs=4)
+
+
 ## About Me
 - 빅데이터와 AI에 관심 많은 개발자 공정민 입니다.
 - UX/UI 개선에 신경을 많이 쓰며, 사용자의 편리함을 제일 먼저 생각 합니다.
