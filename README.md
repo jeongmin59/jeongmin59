@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p>
 
-[포트폴리오 바로가기 📌](https://descriptive-monday-0e8.notion.site/Jeongmin-Gong-Front-End-4a1757acfb714c938edbf40325341c73?pvs=4)
+[포트폴리오 바로가기 📌](https://jmgong59.notion.site/Jeongmin-Gong-Front-End-4a1757acfb714c938edbf40325341c73?pvs=4)
 
 
 ## About Me
