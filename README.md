@@ -15,7 +15,7 @@
 ## About Me
 - 빅데이터와 AI에 관심 많은 개발자 공정민 입니다.
 - UX/UI 개선에 신경을 많이 쓰며, 사용자의 편리함을 제일 먼저 생각 합니다.
-- 서비스 기획과 글쓰기도 관심 있으며, 다양한 경험을 통해 색다른 분야를 배우는 것을 좋아합니다.
+- 서비스 기획에도 관심 있으며, 다양한 경험을 통해 색다른 분야를 배우는 것을 좋아합니다.
 
 
 ## Skills
@@ -35,12 +35,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
   <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   <br/>
@@ -68,20 +66,20 @@
 > 한 번 이상 다루어 본 기술들
 
 <p>
-  <img src="https://img.shields.io/badge/amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/amazon S3-569A31?style=flat-square&logo=amazonS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazonS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
 
 ## Projects
+- [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 진행 중)
 - [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
 - [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
 - [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
