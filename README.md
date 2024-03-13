@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi!%20I'm%20Jeongmin😉&fontSize=50)
 
-</div> 
+</div>
 
 <p align="center">
   <a href="mailto:jmgong59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
@@ -10,15 +10,14 @@
   <a href="https://www.instagram.com/o_goo__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/o_goo__/"/></a>&nbsp
 </p>
 
-
-
 ## About Me
+
 - 빅데이터와 AI에 관심 많은 개발자 공정민 입니다.
 - UX/UI 개선에 신경을 많이 쓰며, 사용자의 편리함을 제일 먼저 생각 합니다.
 - 다양한 경험을 통해 색다른 분야를 배우는 것을 좋아합니다.
 
-
 ## Skills
+
 **Programing Languages**
 
 <p>
@@ -47,6 +46,7 @@
 </p>
 
 **협업 Tool**
+
 <p>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
@@ -61,8 +61,8 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white">
 </p>
 
-
 **ETC**
+
 > 한 번 이상 다루어 본 기술들
 
 <p>
@@ -77,22 +77,24 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-
 ## Projects
+
 - [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 진행 중)
 - [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
 - [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
 - [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
 - [방구석 노래방 서비스](https://github.com/jeongmin59/ssarout) (2023.07 ~ 2023.08)
 
-
 ## Study
-- [머신러닝 시스템 설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06 ~ 2023.10) 
+
+- [머신러닝 시스템 설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06 ~ 2023.10)
 - [데이터엔지니어링 기초 스터디](https://github.com/jeongmin59/DE_Study) (2023.03 ~ 2023.05)
 - [데이터분석 기초 스터디](https://codeusjourney.notion.site/5-8-2-e9e04b2cc995492881796736dc126642) (2022.04 ~ 2022.09)
 
 ## Education
+
 **동아대 사회학과 / 경영정보학과(복수전공)**(2019.03 ~ 2023.02)
+
 > - R기반통계분석
 > - 빅데이터분석
 > - 데이터베이스시스템
@@ -104,9 +106,9 @@
 ## ETC
 
 > 백준 알고리즘
+
 <p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
-  
-</p>
 
+</p>
