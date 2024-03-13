@@ -110,5 +110,3 @@
   
 </p>
 
-
-![Metrics](/github-metrics.svg)
