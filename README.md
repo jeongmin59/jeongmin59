@@ -109,3 +109,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
   
 </p>
+
+
+![Metrics](/github-metrics.svg)
