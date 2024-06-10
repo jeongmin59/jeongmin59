@@ -79,7 +79,7 @@
 
 ## Projects
 
-- [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 진행 중)
+- [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 2024.04 - ver.1까지만 참여)
 - [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
 - [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
 - [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
