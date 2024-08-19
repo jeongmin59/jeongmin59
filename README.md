@@ -115,4 +115,9 @@
 
 ## 최근 티스토리 글
 <!-- TISTORY:START -->
+- [[후기] 조금 늦은 2024년 6월 데스커 라운지 work together - IT편 후기](https://dev-jeongmin.tistory.com/28)
+- [[Programmers] Lv1 문자열 다루기 기본 (JavaScript) + isNaN() 관련](https://dev-jeongmin.tistory.com/27)
+- [[Programmers] Lv1 내적 (JavaScript) + reduce 간단 정리](https://dev-jeongmin.tistory.com/26)
+- [JavaScript에 대하여 - 7](https://dev-jeongmin.tistory.com/25)
+- [[후기] 2024년 3월 캠프콘(CampCON) 후기](https://dev-jeongmin.tistory.com/24)
 <!-- TISTORY:END -->
