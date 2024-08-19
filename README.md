@@ -84,6 +84,10 @@
 - [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
 - [방구석 노래방 서비스](https://github.com/jeongmin59/ssarout) (2023.07 ~ 2023.08)
 
+## Latest Blog Posting
+<!-- TISTORY:START -->
+<!-- TISTORY:END -->
+
 ## Study
 
 - [머신러닝 시스템 설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06 ~ 2023.10)
@@ -112,12 +116,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
 
 </p>
-
-## 최근 티스토리 글
-<!-- TISTORY:START -->
-- [[후기] 조금 늦은 2024년 6월 데스커 라운지 work together - IT편 후기](https://dev-jeongmin.tistory.com/28)
-- [[Programmers] Lv1 문자열 다루기 기본 (JavaScript) + isNaN() 관련](https://dev-jeongmin.tistory.com/27)
-- [[Programmers] Lv1 내적 (JavaScript) + reduce 간단 정리](https://dev-jeongmin.tistory.com/26)
-- [JavaScript에 대하여 - 7](https://dev-jeongmin.tistory.com/25)
-- [[후기] 2024년 3월 캠프콘(CampCON) 후기](https://dev-jeongmin.tistory.com/24)
-<!-- TISTORY:END -->
