@@ -6,7 +6,8 @@ def fetch_recent_posts(feed_url, count=5):
     for entry in feed.entries[:count]:
         title = entry.title
         link = entry.link
-        posts.append(f"- [{title}]({link})")
+        published_date = datetime(*entry.published_parsed[:6]).strftime('%Y-%m-%d')
+        posts.append(f"- [{title}]({link}) ({published_date})")
     return "\n".join(posts)
 
 def update_readme(file_path, new_content):
