@@ -2,7 +2,7 @@ name: Update README with Tistory Posts
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 매시간마다 실행 (원하는 스케줄로 변경 가능)
+    - cron: '0 0 * * *'  # 매시간마다 실행 (원하는 스케줄로 변경 가능)
   workflow_dispatch:  # 수동으로도 실행 가능
 
 jobs:
@@ -14,10 +14,10 @@ jobs:
 
     steps:
     - name: Check out repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
@@ -32,5 +32,5 @@ jobs:
         git config --local user.email "jmgong59@gmail.com"
         git config --local user.name "jeongmin59"
         git add README.md
-        git commit -m "Update README with recent Tistory posts"
+        git commit -m "Update README with recent Tistory posts" || echo "Nothing to commit"
         git push
