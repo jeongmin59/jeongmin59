@@ -1,4 +1,5 @@
 import feedparser
+from datetime import datetime
 
 def fetch_recent_posts(feed_url, count=5):
     feed = feedparser.parse(feed_url)
