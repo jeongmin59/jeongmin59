@@ -5,8 +5,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:jmgong59@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
-  <a href="https://dev-jeongmin.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ggong59.tistory.com"/></a>&nbsp
+  <a href="mailto:jmgong59@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
+  <a href="https://dev-jeongmin.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ggong59.tistory.com"/></a>&nbsp
 </p>
 
 ## About Me
