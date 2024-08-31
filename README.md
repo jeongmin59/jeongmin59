@@ -20,7 +20,7 @@
 
 > 현재 공부 중
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,next,java,spring)](https://skillicons.dev)
 
 ## Projects
 
