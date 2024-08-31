@@ -1,13 +1,11 @@
+<p align="end">
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmin59&count_bg=%2349D9D2&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=false"/></a>
+</p>
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Hi!%20I'm%20Jeongmin😉&fontSize=50)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&height=150&section=header&text=Hi!%20I'm%20Jeongmin😉&fontSize=50)
 
 </div>
-
-<p align="center">
-  <a href="mailto:jmgong59@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jmgong59@gmail.com"/></a>&nbsp
-  <a href="https://dev-jeongmin.tistory.com/" target='_blank'><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://ggong59.tistory.com"/></a>&nbsp
-</p>
 
 ## About Me
 
@@ -62,8 +60,5 @@
 
 > 백준 알고리즘
 
-<p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
-
-</p>
