@@ -20,13 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=supabase,next,java,spring)](https://skillicons.dev)
 
-## Projects
-
-- [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 2024.04 - ver.1까지만 참여)
-- [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
-- [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
-- [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
-- [방구석 노래방 서비스](https://github.com/jeongmin59/ssarout) (2023.07 ~ 2023.08)
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
@@ -37,11 +30,14 @@
 - [[후기] 2024년 3월 캠프콘(CampCON) 후기](https://dev-jeongmin.tistory.com/24) (2024-03-28)
 <!-- TISTORY:END -->
 
-## Study
+## Projects
 
-- [머신러닝 시스템 설계 스터디](https://github.com/donga-it-club/2023_Designing-ML-systems-Study) (2023.06 ~ 2023.10)
-- [데이터엔지니어링 기초 스터디](https://github.com/jeongmin59/DE_Study) (2023.03 ~ 2023.05)
-- [데이터분석 기초 스터디](https://codeusjourney.notion.site/5-8-2-e9e04b2cc995492881796736dc126642) (2022.04 ~ 2022.09)
+- [회고 보드 서비스](https://github.com/jeongmin59/past-forward-frontend) (2024.02 ~ 2024.04 - ver.1까지만 참여)
+- [사용자 위치 기반 익명 SNS](https://github.com/jeongmin59/donggam) (2023.10 ~ 2023.11)
+- [주식 관련 정보 조회 및 매매 일지 작성 서비스](https://github.com/jeongmin59/antoday) (2023.08 ~ 2023.10)
+- [맞춤형 여행 예산 관리 서비스](https://github.com/jeongmin59/ShinhanHack_SawSim) (2023.09)
+- [방구석 노래방 서비스](https://github.com/jeongmin59/ssarout) (2023.07 ~ 2023.08)
+
 
 ## Education
 - SSAFY 9기 수료 (2023.01 ~ 2023.12)
