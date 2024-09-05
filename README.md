@@ -23,11 +23,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 1-1 ~ Ch 2-2를 읽고](https://dev-jeongmin.tistory.com/29) (2024-09-04)
 - [[후기] 조금 늦은 2024년 6월 데스커 라운지 work together - IT편 후기](https://dev-jeongmin.tistory.com/28) (2024-08-19)
 - [[Programmers] Lv1 문자열 다루기 기본 (JavaScript) + isNaN() 관련](https://dev-jeongmin.tistory.com/27) (2024-04-06)
 - [[Programmers] Lv1 내적 (JavaScript) + reduce 간단 정리](https://dev-jeongmin.tistory.com/26) (2024-03-30)
 - [JavaScript에 대하여 - 7](https://dev-jeongmin.tistory.com/25) (2024-03-29)
-- [[후기] 2024년 3월 캠프콘(CampCON) 후기](https://dev-jeongmin.tistory.com/24) (2024-03-28)
 <!-- TISTORY:END -->
 
 ## Projects
