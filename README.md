@@ -23,11 +23,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [DNS와 도메인](https://dev-jeongmin.tistory.com/32) (2024-09-26)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 3-1 ~ 3-3을 읽고](https://dev-jeongmin.tistory.com/31) (2024-09-22)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 2-3 ~ 2-5를 읽고](https://dev-jeongmin.tistory.com/30) (2024-09-12)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 1-1 ~ Ch 2-2를 읽고](https://dev-jeongmin.tistory.com/29) (2024-09-04)
 - [[후기] 조금 늦은 2024년 6월 데스커 라운지 work together - IT편 후기](https://dev-jeongmin.tistory.com/28) (2024-08-19)
-- [[Programmers] Lv1 문자열 다루기 기본 (JavaScript) + isNaN() 관련](https://dev-jeongmin.tistory.com/27) (2024-04-06)
 <!-- TISTORY:END -->
 
 ## Projects
