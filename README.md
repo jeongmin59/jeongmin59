@@ -23,11 +23,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 5-1 ~ 5-4을 읽고](https://dev-jeongmin.tistory.com/36) (2024-10-13)
 - [[다짐] 기다리던 글또 활동을 시작하며](https://dev-jeongmin.tistory.com/35) (2024-10-10)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 4-1 ~ 4-6을 읽고](https://dev-jeongmin.tistory.com/34) (2024-10-06)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 3-4 ~ 3-6을 읽고](https://dev-jeongmin.tistory.com/33) (2024-09-30)
 - [DNS와 도메인](https://dev-jeongmin.tistory.com/32) (2024-09-26)
-- [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 3-1 ~ 3-3을 읽고](https://dev-jeongmin.tistory.com/31) (2024-09-22)
 <!-- TISTORY:END -->
 
 ## Projects
