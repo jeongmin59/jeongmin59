@@ -23,11 +23,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 6-4 ~ 6-6을 읽고 (마지막)](https://dev-jeongmin.tistory.com/40) (2024-11-03)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 6-1 ~ 6-3을 읽고](https://dev-jeongmin.tistory.com/39) (2024-10-27)
 - [Next.js에서 서버 컴포넌트와 클라이언트 컴포넌트란? (근데 이제 SSR을 곁들인)](https://dev-jeongmin.tistory.com/38) (2024-10-27)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 5-4 ~ 5-7을 읽고](https://dev-jeongmin.tistory.com/37) (2024-10-24)
 - [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 5-1 ~ 5-3을 읽고](https://dev-jeongmin.tistory.com/36) (2024-10-13)
-- [[다짐] 기다리던 글또 활동을 시작하며](https://dev-jeongmin.tistory.com/35) (2024-10-10)
 <!-- TISTORY:END -->
 
 ## Projects
