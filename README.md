@@ -9,16 +9,21 @@
 
 ## About Me
 
-- 빅데이터와 AI에 관심 많은 개발자 공정민 입니다.
-- UX/UI 개선에 신경을 많이 쓰며, 사용자의 편리함을 제일 먼저 생각 합니다.
-- 다양한 경험을 통해 색다른 분야를 배우는 것을 좋아합니다.
+> 저는 ____ 하는 개발자 입니다.
+
+- 사용자의 편리함을 제일 먼저 생각하는
+- 성장과 변화를 두려워하지 않는
+- 빅데이터와 AI에 관심 많은
+
 
 ## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,vscode,figma,notion,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,vite)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,notion,gcp)](https://skillicons.dev)
 
 > 현재 공부 중
 
-[![My Skills](https://skillicons.dev/icons?i=supabase,next,java,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,supabase,docker)](https://skillicons.dev)
 
 
 ## Latest Blog Posting
@@ -58,3 +63,5 @@
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
+
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/jmgong59" width="600" height="300"/></a>
