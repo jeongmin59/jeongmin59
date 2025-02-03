@@ -28,11 +28,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [개인 블로그 제작기 - 기획과 설계](https://dev-jeongmin.tistory.com/45) (2025-02-02)
 - [[다짐] 신입 프론트엔드 개발자의 반성과 다짐](https://dev-jeongmin.tistory.com/44) (2025-01-19)
 - [[회고] 2024년을 돌아보며](https://dev-jeongmin.tistory.com/43) (2024-12-22)
 - [[후기] 인생 첫 컨퍼런스를 다녀오다, DAN24 후기](https://dev-jeongmin.tistory.com/42) (2024-11-24)
 - [[이것이 취업을 위한 컴퓨터과학이다] 서평 및 스터디 회고](https://dev-jeongmin.tistory.com/41) (2024-11-10)
-- [[이것이 취업을 위한 컴퓨터 과학이다] - Ch 6-4 ~ 6-6을 읽고 (마지막)](https://dev-jeongmin.tistory.com/40) (2024-11-03)
 <!-- TISTORY:END -->
 
 ## Projects
