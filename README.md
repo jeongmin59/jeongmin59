@@ -28,11 +28,11 @@
 
 ## Latest Blog Posting
 <!-- TISTORY:START -->
+- [마지막 글또 글 제출을 하며...](https://dev-jeongmin.tistory.com/48) (2025-03-30)
 - [[프로그래밍의 규칙] 책 요약 및 느낀 점](https://dev-jeongmin.tistory.com/47) (2025-03-16)
 - [내가 쓰기 위해 정리하는 git 명령어](https://dev-jeongmin.tistory.com/46) (2025-03-02)
 - [개인 블로그 제작기 - 기획과 설계](https://dev-jeongmin.tistory.com/45) (2025-02-02)
 - [[다짐] 신입 프론트엔드 개발자의 반성과 다짐](https://dev-jeongmin.tistory.com/44) (2025-01-19)
-- [[회고] 2024년을 돌아보며](https://dev-jeongmin.tistory.com/43) (2024-12-22)
 <!-- TISTORY:END -->
 
 ## Projects
