@@ -1,6 +1,3 @@
-<p align="end">
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongmin59&count_bg=%2349D9D2&title_bg=%238C8C8C&icon=&icon_color=%23E7E7E7&title=%E2%9C%A8&edge_flat=false"/></a>
-</p>
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2&stroke=000000&strokeWidth=0.5&height=150&section=header&text=Hi!%20I'm%20Jeongmin😉&fontSize=50)
@@ -11,19 +8,18 @@
 
 > 저는 ____ 하는 개발자 입니다.
 
-- 사용자의 편리함을 제일 먼저 생각하는
+- 사용자의 편리함을 최우선으로 생각하는
 - 성장과 변화를 두려워하지 않는
-- 빅데이터와 AI에 관심 많은
 
 
 ## Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=react,ts,tailwind,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,ts,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,notion,gcp)](https://skillicons.dev)
 
-> 현재 공부 중
+> Exploring & More
 
-[![My Skills](https://skillicons.dev/icons?i=next,supabase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,vercel,aws,jest)](https://skillicons.dev)
 
 
 ## Latest Blog Posting
@@ -46,22 +42,4 @@
 
 ## Education
 - SSAFY 9기 수료 (2023.01 ~ 2023.12)
-
-- 동아대 사회학과 / 경영정보학과(복수전공) (2019.03 ~ 2023.02)
-
-> - R기반통계분석
-> - 빅데이터분석
-> - 데이터베이스시스템
-> - e-CRM과데이터마이닝
-> - 엑셀기반의경영데이터분석
-> - 유통/판매데이터분석
-> - 데이터베이스구축및활용
-
-## ETC
-
-> 백준 알고리즘
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jmgong59)](https://solved.ac/jmgong59)
-
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/jmgong59" width="600" height="300"/></a>
+- 동아대학교 사회학과 / 경영정보학과(복수전공) (2019.03 ~ 2023.02)
